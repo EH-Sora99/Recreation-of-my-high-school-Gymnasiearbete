@@ -3,8 +3,8 @@
 </br>***I will mainly write in English***
 ## Main to-do's
 * Install Unity
-* Write the GDD (Game Design Document)
+* <s>Write the GDD (Game Design Document)</s>
 * How I will document everything
-* Rough structure of the GitHub repo
+* <s>Rough structure of the GitHub repo</s>
 
 ### The Game to-do's
