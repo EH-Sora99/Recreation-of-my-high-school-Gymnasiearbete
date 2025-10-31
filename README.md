@@ -12,13 +12,3 @@ I will try to make this playable on:
 * Linux (Appimage)
 * Windows (I don't have any windows computer to test with)?
 * Web (maybe)
-
-Things To-Do
-* <s>Make a TO-DO.md</s>
-* Fix the README.md
-* Find the GDD
-  * Make a new GDD  
-* Install Unity
-* Make a rough test "level"
-* Figure out how to document
-* 
