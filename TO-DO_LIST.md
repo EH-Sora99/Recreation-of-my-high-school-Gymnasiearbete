@@ -4,7 +4,7 @@
 ## Main to-do's
 * Install Unity
 * <s>Write the GDD (Game Design Document)</s>
-* How I will document everything
+* <s>How I will document everything</s>
 * <s>Rough structure of the GitHub repo</s>
 
 ### The Game to-do's
