@@ -14,7 +14,7 @@ I will try to make this playable on:
 * Web (maybe)
 
 Things To-Do
-* Make a TO-DO.md
+* <s>Make a TO-DO.md</s>
 * Fix the README.md
 * Find the GDD
   * Make a new GDD  
