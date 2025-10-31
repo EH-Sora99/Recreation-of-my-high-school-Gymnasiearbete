@@ -5,5 +5,6 @@
 * Install Unity
 * Write the GDD (Game Design Document)
 * How I will document everything
+* Rough structure of the GitHub repo
 
 ### The Game to-do's
