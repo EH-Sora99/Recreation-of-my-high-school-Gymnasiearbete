@@ -44,3 +44,12 @@ A another thing is this document will be a bit wierdly formated to be mainly eas
 
 With that said I will add a blur when Unity is installed.
 16:26 (CTE/UTC+1)
+
+## November 5th
+20:57 (CTE/UTC+1)
+I have gotten my YouTube/editing MacBook Pro working becouse the m.2 ssd adapter I ordered finally arrived and luckily it was just drop in and it just worked (becouse I had allready cloned the m.2 ssd).
+
+I will setup Unity (and hope) I can just create the project folder where this GitHub repo is saved.
+
+I have also setup OBS and will try to record and take screenshots as I work.
+21:05 (CET/UTC+1)
